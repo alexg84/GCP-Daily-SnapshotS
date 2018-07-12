@@ -1,2 +1,2 @@
 # GCP-Daily-SnapshotS
-Bash script for listing VM by lables and creting snapshots 
+Bash script for listing GCE by labels and creating snapshots
